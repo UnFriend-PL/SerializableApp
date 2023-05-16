@@ -1,0 +1,11 @@
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.csproj.AssemblyReference.cache
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.csproj.SuggestedBindingRedirects.cache
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.Form1.resources
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.Properties.Resources.resources
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.csproj.GenerateResource.cache
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.csproj.CoreCompileInputs.cache
+E:\.Net\SerializableAppv2\bin\Debug\SerializableAppv2.exe.config
+E:\.Net\SerializableAppv2\bin\Debug\SerializableAppv2.exe
+E:\.Net\SerializableAppv2\bin\Debug\SerializableAppv2.pdb
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.exe
+E:\.Net\SerializableAppv2\obj\Debug\SerializableAppv2.pdb
